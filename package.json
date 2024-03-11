@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "my_web3_shell": "^1.0.0"
+  },
+  "name": "my-javascript-objects",
+  "version": "1.1.1",
+  "description": "Introduction to JavaScript objects on Learn.co",
+  "main": "objects.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R mocha-multi --reporter-options spec=-,json=.results.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iyinlin/javascript-lesson.git"
+  },
+  "keywords": [
+    "javascript",
+    "objects",
+    "flatiron",
+    "learn"
+  ],
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE.md"
+}
